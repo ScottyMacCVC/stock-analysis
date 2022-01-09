@@ -1,4 +1,4 @@
-# Actively Traded Stocks Return %
+# Actively Traded Stock Correlation to Return %
 
 ## We will explore the correlation between the daily volume of a stock and the % return.
 
