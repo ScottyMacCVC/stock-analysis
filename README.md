@@ -17,10 +17,10 @@
 ## Results
 
 - **Advantages and Disadvantages of the Refactored Code**
--- (Enter Words)
+-- The advantage is in the speed of the reporting. It is infuriating to wait for a slow processor and is more impactful if the process is used often. We want to design our code to handle the workload. reforge past work to include best practices. A code may be built for a specific event and may not include, or needed to include, a larger data set. Data sets are growing as more devices collect data and old code will likely need updating. The disadvantage is we may screw up a working code, impacting the team, and causing pure chaos. Hopefully the original code is saved somewhere, because if the update happened to the master code then the team is picking through the lines. 
 
 - **Advantages and Disadvantages of the Original Code**
--- (Enter Words)
+-- The single most important advantage is the code is working. Although we can improve on a code, we must carefully work the changes into the system. The effects of pushing a bad code can take years and tears to undo. The disadvantage is keeping up with current systems. We are building on top of old code. If the older code does not allow new operations, size of data set, or takes too long to run the added lines, the code will impede the companies ability to grow. 
 ---
-### Please see Hyperlink for our referenced XL sheet  - [VBA_Challenge.xlsx](VBA_Challenge.xlsx)
+### Please see Hyperlink for our referenced XL sheet  - [VBA_Challenge.xlsx](https://github.com/ScottyMacCVC/stock-analysis/blob/main/green_stocks.xlsm)
 ---
