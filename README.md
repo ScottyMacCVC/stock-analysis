@@ -10,7 +10,7 @@
 
 ### ![VBA_Challenge_2017](https://github.com/ScottyMacCVC/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) 
 
-### 2018 fails to correlate stock volume & return. When you look at the two successful tickers, ENPH & RUN, there is some correlation between volume & return. ENPH hit 607,473,500 with 81.9% return and RUN hit 502,757,100 with 84.0% return. The challenge is SPWR has 538,024,300 daily volume, which is more than RUN, but RUN received a -44.6% return. If we were to use the daily volume theory here, we would be left holding the bill for the losses. We can say the same about FSLR. It would be a mistake to rely on Total Daily Volume as the key performance indicatior in 2018, therefore proving our theory incorrect again. 
+### 2018 fails to correlate stock volume & return. When you look at the two successful tickers, ENPH & RUN, there is some correlation between volume & return. ENPH hit 607,473,500 with 81.9% return and RUN hit 502,757,100 with 84.0% return. The challenge is a different stock, SPWR, has 538,024,300 daily volume, which is more than RUN and received -44.6% return. If we were to use the daily volume theory here, we would be left holding the bill for the losses on SPWR. We can say the same about FSLR. It would be a mistake to rely on Total Daily Volume as the key performance indicatior in 2018, therefore proving our theory incorrect again. 
 
 ### ![VBA_Challenge_2018](https://github.com/ScottyMacCVC/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
