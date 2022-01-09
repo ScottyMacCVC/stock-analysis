@@ -2,7 +2,7 @@
 
 ## We will explore the correlation between the daily volume of a stock and the % return.
 
-### Our current process will look at 2017 & 2018 stock volume & return. We can extrapolate from the past whether there is, in fact, a correlation between the two measurements. And potentially use the information to give us direction on stock picks.
+### Our current process will look at 2017 & 2018 stock volume & return. We can extrapolate from the past whether there is, in fact, a correlation between the two measurements. 
 
 ## Analysis and Challenges 
 
